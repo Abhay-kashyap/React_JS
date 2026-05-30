@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+}
+body{
+  background-color: #000;
+  color: #fff;
+}
+.card{
+  background-color: pink;
+  padding: 40px;
+  border-radius: 10px;
+  margin: 20px;
+
+}
+.nav{
+  background-color: lightblue;
+  margin: 20px;
+  padding: 10px;
+}
